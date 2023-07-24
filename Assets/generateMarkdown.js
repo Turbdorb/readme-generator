@@ -45,7 +45,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+
 function generateMarkdown(answers) {
   return `
 # ${answers.title}

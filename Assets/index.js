@@ -54,7 +54,7 @@ const questions = [
 
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
-        err ? console.error(err) : console.log('Success!')
+        err ? console.error(err) : console.log('Success! Your READme has been created!')
     })
 }
 
