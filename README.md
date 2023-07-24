@@ -23,7 +23,9 @@ Fill out all of the questions and press enter.
 
 Your READme will be generated for you inside of the file directory!
 
-<video controls src="./Assets/media/Module 9 Project.mp4"></video>
+<video width="1200" height="700" controls src="./Assets/media/readme_generator_vid.mp4"></video>
+
+[Video of Project](https://drive.google.com/file/d/1mcX1K4SqlLFr1-oYJClU9TPdWppa-Urr/view?usp=sharing)
 
 ## License
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
